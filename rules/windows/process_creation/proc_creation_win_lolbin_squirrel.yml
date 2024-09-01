@@ -3,7 +3,7 @@ id: 45239e6a-b035-4aaf-b339-8ad379fcb67e
 related:
     - id: fa4b21c9-0057-4493-b289-2556416ae4d7
       type: obsoletes
-status: experimental
+status: test
 description: Detects the usage of the "Squirrel.exe" binary as a LOLBIN. This binary is part of multiple software installations (Slack, Teams, Discord, etc.)
 references:
     - https://lolbas-project.github.io/lolbas/OtherMSBinaries/Squirrel/

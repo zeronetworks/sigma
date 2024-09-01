@@ -1,6 +1,6 @@
 title: Elevated System Shell Spawned
 id: 178e615d-e666-498b-9630-9ed363038101
-status: experimental
+status: test
 description: Detects when a shell program such as the Windows command prompt or PowerShell is launched with system privileges.
 references:
     - https://github.com/Wh04m1001/SysmonEoP

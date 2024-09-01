@@ -3,7 +3,7 @@ id: 42f0e038-767e-4b85-9d96-2c6335bad0b5
 related:
     - id: 1fac1481-2dbc-48b2-9096-753c49b4ec71
       type: derived
-status: experimental
+status: test
 description: Detects javaw.exe in AppData folder as used by Adwind / JRAT
 references:
     - https://www.hybrid-analysis.com/sample/ba86fa0d4b6af2db0656a88b1dd29f36fe362473ae8ad04255c4e52f214a541c?environmentId=100

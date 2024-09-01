@@ -1,6 +1,6 @@
 title: LAPS Password Harvesting
 id: 144cad53-25b8-43f1-8ec8-a0ef42335476
-status: experimental
+status: test
 description: Detects attempts to access LAPS computer passwords
 references:
     - https://github.com/zeronetworks/ldapfw

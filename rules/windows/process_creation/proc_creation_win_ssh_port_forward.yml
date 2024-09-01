@@ -1,6 +1,6 @@
 title: Port Forwarding Attempt Via SSH
 id: 327f48c1-a6db-4eb8-875a-f6981f1b0183
-status: experimental
+status: test
 description: Detects suspicious SSH tunnel port forwarding to a local port
 references:
     - https://www.absolomb.com/2018-01-26-Windows-Privilege-Escalation-Guide/
