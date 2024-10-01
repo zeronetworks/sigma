@@ -1,6 +1,6 @@
 title: DNS Query To Devtunnels And VsCode Tunnels
 id: b3e6418f-7c7a-4fad-993a-93b65027a9f1
-status: experimental
+status: test
 description: |
     Detects DNS query to Devtunnels and Visual Studio Code tunnel domains. Attackers can be abuse these features to establish a reverse shell.
 references:

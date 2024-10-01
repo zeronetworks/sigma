@@ -1,6 +1,6 @@
 title: Potential NT API Stub Patching
 id: b916cba1-b38a-42da-9223-17114d846fd6
-status: experimental
+status: test
 description: Detects potential NT API stub patching as seen used by the project PatchingAPI
 references:
     - https://github.com/D1rkMtr/UnhookingPatch

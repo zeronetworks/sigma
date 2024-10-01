@@ -5,7 +5,7 @@ related:
       type: obsoletes
     - id: fe6e002f-f244-4278-9263-20e4b593827f
       type: obsoletes
-status: experimental
+status: test
 description: Detects loading of essential DLLs used by PowerShell, but not by the process powershell.exe. Detects behaviour similar to meterpreter's "load powershell" extension.
 references:
     - https://adsecurity.org/?p=2921

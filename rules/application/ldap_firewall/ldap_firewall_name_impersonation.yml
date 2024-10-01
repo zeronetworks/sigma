@@ -1,6 +1,6 @@
 title: Computer Name Impersonation
 id: db821bd8-4f82-436b-841a-c6999a7da671
-status: experimental
+status: test
 description: Detects LDAP Add operations of computer accounts without a trailing '$', which could indicate Name Impersonation for sAMAccountName spoofing
 references:
     - https://www.thehacker.recipes/a-d/movement/kerberos/samaccountname-spoofing

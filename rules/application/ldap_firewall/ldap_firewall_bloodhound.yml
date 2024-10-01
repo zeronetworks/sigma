@@ -1,6 +1,6 @@
 title: BloodHound Collector
 id: 43f5e083-333c-494a-964c-6f80478a89e9
-status: experimental
+status: test
 description: Detects BloodHound data collection
 references:
     - https://bloodhound.readthedocs.io/en/latest/index.html

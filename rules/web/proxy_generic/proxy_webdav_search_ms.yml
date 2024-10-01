@@ -1,6 +1,6 @@
 title: Search-ms and WebDAV Suspicious Indicators in URL
 id: 5039f3d2-406a-4c1a-9350-7a5a85dc84c2
-status: experimental
+status: test
 description: Detects URL pattern used by search(-ms)/WebDAV initial access campaigns.
 references:
     - https://www.trellix.com/en-us/about/newsroom/stories/research/beyond-file-search-a-novel-method.html
